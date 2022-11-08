@@ -1,0 +1,10 @@
+D:\Projects\Interviews\DemirorenCase\NewsCase.Core\bin\Debug\netcoreapp3.1\NewsCase.Core.deps.json
+D:\Projects\Interviews\DemirorenCase\NewsCase.Core\bin\Debug\netcoreapp3.1\NewsCase.Core.dll
+D:\Projects\Interviews\DemirorenCase\NewsCase.Core\bin\Debug\netcoreapp3.1\NewsCase.Core.pdb
+D:\Projects\Interviews\DemirorenCase\NewsCase.Core\obj\Debug\netcoreapp3.1\NewsCase.Core.csproj.AssemblyReference.cache
+D:\Projects\Interviews\DemirorenCase\NewsCase.Core\obj\Debug\netcoreapp3.1\NewsCase.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Interviews\DemirorenCase\NewsCase.Core\obj\Debug\netcoreapp3.1\NewsCase.Core.AssemblyInfoInputs.cache
+D:\Projects\Interviews\DemirorenCase\NewsCase.Core\obj\Debug\netcoreapp3.1\NewsCase.Core.AssemblyInfo.cs
+D:\Projects\Interviews\DemirorenCase\NewsCase.Core\obj\Debug\netcoreapp3.1\NewsCase.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Interviews\DemirorenCase\NewsCase.Core\obj\Debug\netcoreapp3.1\NewsCase.Core.dll
+D:\Projects\Interviews\DemirorenCase\NewsCase.Core\obj\Debug\netcoreapp3.1\NewsCase.Core.pdb
